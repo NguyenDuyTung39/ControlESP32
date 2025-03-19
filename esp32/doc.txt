@@ -1,0 +1,5 @@
+mpremote connect list
+mpremote connect COM7 cp main.py :
+mpremote connect COM7 repl
+mpremote connect COM7 cp -r package :
+mpfshell -o COM7
