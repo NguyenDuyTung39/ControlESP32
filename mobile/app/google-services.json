@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "868637814954",
+    "firebase_url": "https://controller-d86b2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "controller-d86b2",
+    "storage_bucket": "controller-d86b2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868637814954:android:de1dd40bf705a9a8e260d3",
+        "android_client_info": {
+          "package_name": "com.example.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx60gqJck431A_vsCnJ9HC7zPCRo5MfXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868637814954:android:f26a54fec8e70256e260d3",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx60gqJck431A_vsCnJ9HC7zPCRo5MfXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
